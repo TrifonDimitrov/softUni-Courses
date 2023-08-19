@@ -6,6 +6,7 @@ function sortNumbers(numberOne, numberTwo, numberTree) {
     console.log(largest);
     console.log(middle);
     console.log(smaler);
+    console.log(gth);
 
 
 }
